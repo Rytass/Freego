@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Freego
+Exec=/home/rytass/freego/freego_linux
+Icon=/home/rytass/freego/img/freego_logo_banner.png
+Path=/home/rytass/freego
+Terminal=false
